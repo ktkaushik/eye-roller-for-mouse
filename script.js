@@ -20,5 +20,5 @@ function animateEyes ( xPos , yPos ) {
 }
 
 function newEyeballPos ( currentPos , eyePos ) {
-	return Math.min(Math.max( currentPos , eyePos + 3 ) , eyePos + 17) + "px";
+	return Math.min(Math.max( currentPos , eyePos + 1 ) , eyePos + 16) + "px";
 }
