@@ -8,10 +8,10 @@ function moveHandler(evt) {
 }
 
 function animateEyes ( xPos , yPos ) {
-	var rightEye = document.getElementById('reye');
-	var leftEye = document.getElementById('leye');
-	var rightEyeball = document.getElementById('rdot').style;
-	var leftEyeball = document.getElementById('ldot').style;
+	var rightEye = document.getElementById('rEye');
+	var leftEye = document.getElementById('lEye');
+	var rightEyeball = document.getElementById('rDot').style;
+	var leftEyeball = document.getElementById('lDot').style;
 
 	leftEyeball.left = newEyeballPos( xPos , leftEye.offsetLeft );
 	leftEyeball.top = newEyeballPos( yPos , leftEye.offsetTop );
