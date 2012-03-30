@@ -3,9 +3,3 @@
 This is a small html page powered by JavaScript wherein the eye would always point towards the pointer.
 
 I have added additional images since noone is gonna like the ones i used anyway.
-
-=Here's an image.
-
-Not the best image, please bear with it.
-
-[Image 1](http://dl.dropbox.com/u/15584938/eye-roll2.png) and [Image 2](http://dl.dropbox.com/u/15584938/eye-roll.png)
